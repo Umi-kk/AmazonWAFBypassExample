@@ -1,0 +1,19 @@
+{
+  "name": "amazonwaf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aws_waf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.39",
+    "dotenv": "^16.3.1",
+    "puppeteer": "^20.8.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
